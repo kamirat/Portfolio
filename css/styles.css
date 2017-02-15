@@ -1,0 +1,63 @@
+
+@charset "utf-8";
+
+body{
+/*    background-color: transparent;*/
+    background-image: url('../bgpattern.jpg');
+    background-repeat: repeat-y;
+}
+
+/*--------------------------------------------------
+  Materializeに追加
+--------------------------------------------------*/
+
+.parallax-container {
+  height: 300px;
+}
+
+/*--------------------------------------------------
+  GLOBAL NAVIGATION
+--------------------------------------------------*/
+
+
+
+/*--------------------------------------------------
+  CONTENTS
+--------------------------------------------------*/
+
+/* diagonal separator */
+
+:root {
+  --width: 100vw;
+  --height: 100px;
+  --top-color: transparent;
+  --bottom-color: white;
+}
+
+.separator {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: var(--height) var(--width) 0 0;
+  border-color: var(--top-color) var(--bottom-color) transparent transparent;
+}
+
+.separatorEnd {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: var(--height) var(--width) 0 0;
+  border-color: var(--bottom-color) var(--top-color) transparent transparent;
+}
+
+.image.above section header p{
+  font-size: 7.5em;
+  font-weight: 500;
+  color: white;
+  margin: 0 0 -1.3em;
+}
+
+/*--------------------------------------------------
+  FOOTER
+--------------------------------------------------*/
+
