@@ -2,6 +2,7 @@
 @charset "utf-8";
 
 body{
+    overflow-x: hidden;
 /*    background-color: transparent;*/
     background-image: url('../bgpattern.jpg');
     background-repeat: repeat-y;
@@ -13,6 +14,10 @@ body{
 
 .parallax-container {
   height: 300px;
+}
+
+.material-icons.bluish {
+    color: #00e6b8;
 }
 
 /*--------------------------------------------------
@@ -29,7 +34,7 @@ body{
 
 :root {
   --width: 100vw;
-  --height: 100px;
+  --height: 8vw;
   --top-color: transparent;
   --bottom-color: white;
 }
