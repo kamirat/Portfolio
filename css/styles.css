@@ -3,9 +3,8 @@
 
 body{
     overflow-x: hidden;
-/*    background-color: transparent;*/
-    background-image: url('../bgpattern.jpg');
-    background-repeat: repeat-y;
+    background-image: url('../bgpattern.png');
+    background-repeat: repeat;
 }
 
 /*--------------------------------------------------
