@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
 
 <!--  TODO // put background vid  -->
     <div class="container valign-wrapper" style="height:40em;" id="topvid">
-            <h3 class="valign white">title</h3>
+            <h3 class="valign white">Kami Rattray</h3><br>
     </div>
 
 
@@ -63,8 +63,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
         <div class="container right-align">
 <!--            <a href="">Bio</a> <a href="">Works</a> <a href="">Contact</a>-->
         </div>
+<!--
         <div class="parallax"><img src="bg_slight.png">
         </div>
+-->
     </div>
 
 
@@ -94,14 +96,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
             </div>
             <div class="divider"></div>
             <div class="section">
-                <h6>スキル</h6>
                    <p>
                     <span class="lime accent-2">グラフィックデザイン</span> WEBバナーから印刷物まで<br>
                     <span class="light-green accent-2">翻訳</span> 日英の簡単な翻訳､校正<br>
                     <span class="cyan accent-1">コーディング</span> HTML5/CSS/PHP WEBサイトの構築･修正､簡単なプログラミング
                    </p>
             </div>
-            <div class="divider"></div>
         </div>
     </div>
 </div>
@@ -117,9 +117,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
 
 
     <div class="parallax-container">
+<!--
         <div class="parallax"><img src="bg_slight.png">
         </div>
+-->
     </div>
+
 
 
 <!--  diagonal separator  -->
@@ -132,7 +135,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
   </section>
 </div>
 
-<!--  WORKS  -->
+  <div class="section white">
+    <div class="row container">
+    under construction...
+    </div>
+  </div>
+
+<!--
+/* WORKS */
   <div class="section white">
     <div class="row container">
       <div class="col s4">
@@ -161,7 +171,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
       </div>
     </div>
 
-<!--  2nd row  -->
+/*  2nd row  */
     <div class="row container">
 
       <div class="col s4">
@@ -191,7 +201,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
     </div>
 
 
-<!--  3rd row  -->
+/* 3rd row */
     <div class="row container">
 
       <div class="col s4">
@@ -220,15 +230,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
       </div>
     </div>
 
-<!-- hide button
+/* hide button
     <div class="container">
        <div class="center-align">
         <a class="waves-effect waves-light btn" href="works.html">more<i class="material-icons right">view_module</i></a>
        </div>
     </div>
--->
+*/
 
   </div>
+
+-->
 
 <!--  diagonal separator END  -->
 <div class="image above">
@@ -242,8 +254,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
 
 
     <div class="parallax-container">
+<!--
         <div class="parallax"><img src="bg_slight.png">
         </div>
+-->
     </div>
 
 
@@ -305,8 +319,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
 
 
       <div class="parallax-container">
+<!--
         <div class="parallax"><img src="bg_slight.png">
         </div>
+-->
     </div>
 
 
