@@ -56,8 +56,14 @@
                 フロントエンドエンジニアの端くれしてます｡
             </div>
         </div>
-    </div>
+      </div>
+        <div class="footer-copyright white">
+          <div class="container grey-text right-align">
+            © 2017 Kami Rattray
+          </div>
+        </div>
 </footer>
+
 
 
 </body>
