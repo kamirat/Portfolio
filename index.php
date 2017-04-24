@@ -41,6 +41,8 @@
           <h3>Works</h3>
             <p class="subtitle">最近制作したもの</p>
           <div class="section" id="mix-wrapper">
+
+<!-- Search Box
               <div class="search">
                 <form action="#">
                   <ul>
@@ -63,13 +65,14 @@
                   </ul>
                 </form>
               </div>
+ -->
 
 
                 <div class="works mix cat--design">
                   <a href="#">
-                    <div class="thumbnail" style="background-image:url()"></div>
+                    <div class="thumbnail" style="background-image:url(works/photos/thmb.jpg)"></div>
                     <div class="caption">
-                      <p>DESIGN</p>
+                      <p>PHOTO</p>
                     </div>
                   </a>
                 </div>
@@ -77,7 +80,7 @@
 
                 <div class="works mix cat--logo">
                   <a href="#">
-                    <div class="thumbnail" style="background-image:url()"></div>
+                    <div class="thumbnail" style="background-image:url(works/logos/thmb.jpg)"></div>
                     <div class="caption">
                       <p>LOGO</p>
                     </div>
@@ -86,7 +89,35 @@
 
                 <div class="works mix cat--photo">
                   <a href="#">
-                    <div class="thumbnail" style="background-image:url()"></div>
+                    <div class="thumbnail" style="background-image:url(works/ads/thmb.jpg)"></div>
+                    <div class="caption">
+                      <p>AD</p>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="works mix cat--photo">
+                  <a href="#modal1" class="modal-trigger">
+                    <div class="thumbnail" style="background-image:url(works/posters/thmb.jpg)"></div>
+                    <div class="caption">
+                      <p>POSTER</p>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="works mix cat--design">
+                  <a href="#">
+                    <div class="thumbnail" style="background-image:url(works/ads/thmb2.jpg)"></div>
+                    <div class="caption">
+                      <p>AD</p>
+                    </div>
+                  </a>
+                </div>
+
+
+                <div class="works mix cat--logo">
+                  <a href="#">
+                    <div class="thumbnail" style="background-image:url(works/photos/thmb2.jpg)"></div>
                     <div class="caption">
                       <p>PHOTO</p>
                     </div>
@@ -94,37 +125,14 @@
                 </div>
 
                 <div class="works mix cat--photo">
-                  <a href="#modal1" class="modal-trigger">
-                    <div class="thumbnail" style="background-image:url()"></div>
+                  <a href="#">
+                    <div class="thumbnail" style="background-image:url(works/web/thmb.jpg)"></div>
                     <div class="caption">
-                      <p>PHOTO</p>
+                      <p>WEB -HTML/CSS</p>
                     </div>
                   </a>
                 </div>
-                <!-- Modal Structure -->
-                <div id="modal1" class="modal">
-                  <div class="modal-content">
-                    <h4>Modal Header</h4>
-                    <p>A bunch of text</p>
-                  </div>
-                  <div class="modal-footer">
-                    <a href="#!" class="modal-action modal-close waves-effect waves-blue btn-flat">CLOSE</a>
-                  </div>
-                </div>
-                <!-- FIX:: MODAL NOT WORKING -->
-                <!-- Modal Trigger -->
-                <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
 
-                <!-- Modal Structure -->
-                <div id="modal1" class="modal">
-                  <div class="modal-content">
-                    <h4>Modal Header</h4>
-                    <p>A bunch of text</p>
-                  </div>
-                  <div class="modal-footer">
-                    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
-                  </div>
-                </div>
 
                 <!-- /. End Works -->
               </div>
@@ -144,8 +152,8 @@
 <div class="">
   <div class="row container">
      <div class="col s12 right-align">
-          <h3>something</h3>
-            <p class="subtitleB">なにか別のコンテンツ</p>
+          <h3>Skills</h3>
+            <p class="subtitle">使えるツールとか</p>
           <div class="section">
               <div class="">
                 123...
@@ -181,6 +189,8 @@
             </div>
             <div class="section">
                 ゲームが好きな生粋の日本人オタク｡<br>
+                グラフィックデザイナーとして4年働き、<br>
+                仕事の中でHTML/CSSのコーディングを始めました。<br>
                 フロントエンドエンジニアめざして勉強中｡
             </div>
             <div class="sns-list">

@@ -69,25 +69,17 @@ main {
 h3{
   color: #fff;
   text-shadow: .030em .030em #00ccff, .08em .08em #acc0c4;
-  display: inline-block;
 }
 
 .white h3{
   color: #212121;
   text-shadow: .030em .030em #fff, .08em .08em #78e2d6;
-  display: inline-block;
 }
 
 p.subtitle{
   display: inline-block;
   color: #888;
-  margin-left: 20px;
-}
-p.subtitleB{
-  display: inline-block;
-  color: #888;
-  margin-right: 20px;
-  flo;
+  margin: 0 5px 15px;
 }
 
 .search{
@@ -103,15 +95,23 @@ p.subtitleB{
 .works{
   width: 180px;
   height: 220px;
-  margin: 15px 30px;
+  margin: 15px 30px 15px 0;
   float: left;
   box-shadow: 0 2px 5px rgba(0,0,0,0.26);
 }
+
+.works:last-child{
+  margin: 15px 0;
+}
+
 .thumbnail{
   width: 90%;
   height: 150px;
   margin: 10px auto 0;
   background-color: grey;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .caption{
   color: #555;
