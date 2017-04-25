@@ -158,16 +158,30 @@
                 <ul class="skilltool">
                   <li><i class="fa fa-object-ungroup" aria-hidden="true"></i>
  Design</li>
-                  <li><span>Photoshop</span></li>
-                  <li><span>Illustrator</span></li>
-                  <li><span>InDesign</span></li>
+                  <li><span>Photoshop</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
+                  <li><span>Illustrator</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
+                  <li><span>InDesign</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
                 </ul>
                 <ul class="skilltool">
                   <li><i class="fa fa-code" aria-hidden="true"></i> Coding</li>
-                  <li><span>HTML5</span></li>
-                  <li><span>CSS3</span></li>
-                  <li><span>PHP</span></li>
-                  <li><span>Ruby on Rails</span></li>
+                  <li><span>HTML5</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
+                  <li><span>CSS3</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
+                  <li><span>PHP</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
+                  <li><span>Ruby on Rails</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
                 </ul>
           </div>
 
