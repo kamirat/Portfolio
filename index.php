@@ -168,6 +168,7 @@
                     <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
                   </li>
                 </ul>
+
                 <ul class="skilltool">
                   <li><i class="fa fa-code" aria-hidden="true"></i> Coding</li>
                   <li><span>HTML5</span>
@@ -183,6 +184,20 @@
                     <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
                   </li>
                 </ul>
+
+                <ul class="skilltool">
+                  <li><i class="fa fa-spinner" aria-hidden="true"></i> Misc</li>
+                  <li><span>git</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
+                  <li><span>github</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
+                  <li><span>Wordpress</span>
+                    <i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle-o" aria-hidden="true"></i><i class="fa fa-circle" aria-hidden="true"></i>
+                  </li>
+                </ul>
+
           </div>
 
       </div>
