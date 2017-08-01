@@ -1,11 +1,19 @@
 
 @charset "utf-8";
+@import url(https://fonts.googleapis.com/css?family=Loved+by+the+King|Roboto);
 
 body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
     overflow-x: hidden;
     background-color: #00ccff;
-/*    background-image: url('../bgpattern.png');*/
-/*    background-repeat: repeat;*/
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+}
+
+main {
+  flex: 1 0 auto;
 }
 
 /*--------------------------------------------------
@@ -21,16 +29,8 @@ body{
 }
 
 /*--------------------------------------------------
-  GLOBAL NAVIGATION
+  DIAGONAL SEPARATOR
 --------------------------------------------------*/
-
-
-
-/*--------------------------------------------------
-  CONTENTS
---------------------------------------------------*/
-
-/* diagonal separator */
 
 :root {
   --width: 100vw;
@@ -63,16 +63,85 @@ body{
 }
 
 /*--------------------------------------------------
-  FOOTER
+  CONTENTS
 --------------------------------------------------*/
 
-/* Sticky Footer */
-  body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-  }
+h3{
+  color: #fff;
+  text-shadow: .030em .030em #00ccff, .08em .08em #acc0c4;
+  display: inline-block;
+}
 
-  main {
-    flex: 1 0 auto;
-  }
+.white h3{
+  color: #212121;
+  text-shadow: .030em .030em #fff, .08em .08em #78e2d6;
+  display: inline-block;
+}
+
+p.subtitle{
+  display: inline-block;
+  color: #888;
+  margin-left: 20px;
+}
+p.subtitleB{
+  display: inline-block;
+  color: #888;
+  margin-right: 20px;
+  flo;
+}
+
+.search{
+    height: 50px;
+}
+.search li{
+    display: inline-block;
+    margin-right:45px;
+}
+.search li:last-child{
+    margin-right:0;
+}
+.works{
+  width: 180px;
+  height: 220px;
+  margin: 15px 30px;
+  float: left;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+.thumbnail{
+  width: 90%;
+  height: 150px;
+  margin: 10px auto 0;
+  background-color: grey;
+}
+.caption{
+  color: #555;
+  width: 80%;
+  margin: 0 auto;
+  font-family: 'Loved by the King', cursive;
+  font-size: 1.5em;
+}
+
+.mytags li{
+  display: inline-block;
+  border: 1px solid #ccc;
+  padding-right: 5px;
+}
+.mytags i{
+  margin: 0 2px 0 5px;
+  vertical-align: middle;
+}
+
+.sns-list li{
+  display: inline-block;
+  font-size: 1.5em;
+  margin: 0 5px;
+}
+
+.sns-list i{
+  text-shadow: .030em .030em #fff, .08em .08em #78e2d6;
+}
+
+
+/*--------------------------------------------------
+  FOOTER
+--------------------------------------------------*/
