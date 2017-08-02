@@ -153,11 +153,22 @@
   <div class="row container">
      <div class="col s12 right-align">
           <h3>Skills</h3>
-            <p class="subtitle">使えるツールとか</p>
+            <p class="subtitle">使えるツール/経験がある言語</p>
           <div class="section">
-              <div class="">
-                123...
-              </div>
+                <ul class="skilltool">
+                  <li><i class="fa fa-object-ungroup" aria-hidden="true"></i>
+ Design</li>
+                  <li><span>Photoshop</span></li>
+                  <li><span>Illustrator</span></li>
+                  <li><span>InDesign</span></li>
+                </ul>
+                <ul class="skilltool">
+                  <li><i class="fa fa-code" aria-hidden="true"></i> Coding</li>
+                  <li><span>HTML5</span></li>
+                  <li><span>CSS3</span></li>
+                  <li><span>PHP</span></li>
+                  <li><span>Ruby on Rails</span></li>
+                </ul>
           </div>
 
       </div>
@@ -190,7 +201,7 @@
             <div class="section">
                 ゲームが好きな生粋の日本人オタク｡<br>
                 グラフィックデザイナーとして4年働き、<br>
-                仕事の中でHTML/CSSのコーディングを始めました。<br>
+                仕事の中でHTML/CSSのマークアップを始めました。<br>
                 フロントエンドエンジニアめざして勉強中｡
             </div>
             <div class="sns-list">

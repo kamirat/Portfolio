@@ -141,6 +141,15 @@ p.subtitle{
   text-shadow: .030em .030em #fff, .08em .08em #78e2d6;
 }
 
+ul.skilltool span{
+  margin-right: 15px;
+}
+
+ul.skilltool li:first-child{
+  font-weight: bold;
+  font-size: 1.2em;
+  margin: 10px 0 5px;
+}
 
 /*--------------------------------------------------
   FOOTER
