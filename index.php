@@ -153,7 +153,7 @@
   <div class="row container">
      <div class="col s12 right-align">
           <h3>Skills</h3>
-            <p class="subtitle">使えるツール/経験がある言語</p>
+            <p class="subtitle">使えるツール/経験がある言語など</p>
           <div class="section">
                 <ul class="skilltool">
                   <li><i class="fa fa-object-ungroup" aria-hidden="true"></i>
