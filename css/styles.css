@@ -68,7 +68,7 @@ main {
 
 h3{
   color: #fff;
-  text-shadow: .030em .030em #00ccff, .08em .08em #acc0c4;
+  text-shadow: .030em .030em #00ccff, .08em .08em rgba(136, 152, 155, 0.5);
 }
 
 .white h3{
@@ -78,7 +78,7 @@ h3{
 
 p.subtitle{
   display: inline-block;
-  color: #888;
+  color: rgba(107, 107, 107, 0.8);
   margin: 0 5px 15px;
 }
 
